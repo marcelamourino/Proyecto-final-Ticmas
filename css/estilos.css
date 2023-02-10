@@ -6,7 +6,7 @@
 }
 
 body {
-    background: lightblue;
+    background: rgb(243, 247, 187);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -46,13 +46,13 @@ body {
 
 .contenedor .left_Side {
     position: relative;
-    background: #003147;
+    background: #0373b4;
     padding: 40px;
 }
 
 .contenedor .right_Side{
     position: relative;
-    background: #fff;
+    background: lightblue;
     padding: 40px;
 }
 
@@ -124,7 +124,7 @@ body {
     display: inline-block;
     width: 20px;
     font-size: 20px;
-    color: #03a9f4;
+    color: greenyellow;
 }
 
 .informacion_de_contacto ul li span {
@@ -138,7 +138,7 @@ body {
 }
 
 .informacion_educativa h5 {
-    color: #03a9f4;
+    color: #192227;
     font-weight: 500;
 }
 
@@ -172,7 +172,7 @@ body {
     top: 0;
     left: 0;
     height: 100%;
-    background: #03a9f4;
+    background: #7dcef6;
 }
 
 .acerca_de {
@@ -205,7 +205,7 @@ p {
 
 .acerca_de .caja .año h5 {
     text-transform: uppercase;
-    color: #848c90;
+    color: grey;
     font-weight: 600;
 }
 
@@ -226,7 +226,7 @@ p {
 
 .habilidades .caja h4 {
     text-transform: uppercase;
-    color: #848c99;
+    color: grey;
     font-weight: 500;
 }
 
@@ -242,7 +242,7 @@ p {
     top: 0;
     left: 0;
     height: 100%;
-    background: #03a9f4;
+    background: blueviolet;
 }
 
 @media (max-width: 1000px) {
